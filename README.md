@@ -4,9 +4,6 @@
 
 It solves the problem of "Information Overload" for investors by aggregating news from multiple sources and using AI to determine if the market sentiment is **Bullish** or **Bearish**.
 
-![ProfitPilot Demo](https://via.placeholder.com/800x400.png?text=Add+Your+Screenshot+Here)
-*(Add a screenshot of your dashboard here)*
-
 ## ⚡ Key Features
 - **Hybrid AI Engine:** Uses `TextBlob` for NLP sentiment scoring, with a fallback dual-engine architecture (Yahoo Finance + Google News) to ensure 100% data availability.
 - **Smart Ticker Resolution:** Automatically resolves fuzzy user queries (e.g., "Tata Motors" → `TATAMOTORS.NS`) using a custom lookup algorithm.
